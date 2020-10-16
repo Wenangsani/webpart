@@ -1,10 +1,9 @@
 {
   "name": "BDSM WHIPLASH",
   "short_name": "BDSM WHIPLASH",
-  "scope": "",
   "theme_color": "#000000",
   "background_color": "#000000",
-  "start_url": "",
+  "start_url": "index.html",
   "display": "standalone",
   "orientation": "portrait",
   "icons": [
